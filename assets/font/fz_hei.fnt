@@ -1,0 +1,18 @@
+info face="FZZhengHeiS-B-GB" size=40 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=49 base=35 scaleW=256 scaleH=256 pages=1 packed=0
+page id=0 file="fz_hei.png"
+chars count=14
+char id=32     x=140   y=93    width=0     height=0     xoffset=0     yoffset=36    xadvance=13    page=0 chnl=0 letter="space"
+char id=19968  x=94    y=93    width=44    height=12    xoffset=2     yoffset=10    xadvance=40    page=0 chnl=0 letter="一"
+char id=20250  x=138   y=2     width=44    height=43    xoffset=2     yoffset=-4    xadvance=40    page=0 chnl=0 letter="会"
+char id=20987  x=183   y=48    width=44    height=42    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="击"
+char id=22833  x=93    y=2     width=43    height=44    xoffset=2     yoffset=-4    xadvance=40    page=0 chnl=0 letter="失"
+char id=23436  x=48    y=2     width=43    height=44    xoffset=3     yoffset=-4    xadvance=40    page=0 chnl=0 letter="完"
+char id=24481  x=93    y=48    width=43    height=43    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="御"
+char id=24515  x=2     y=93    width=44    height=42    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="心"
+char id=25915  x=2     y=2     width=44    height=44    xoffset=2     yoffset=-4    xadvance=40    page=0 chnl=0 letter="攻"
+char id=32654  x=138   y=48    width=43    height=43    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="美"
+char id=36133  x=2     y=48    width=44    height=43    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="败"
+char id=37325  x=48    y=93    width=44    height=42    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="重"
+char id=38169  x=184   y=2     width=44    height=43    xoffset=2     yoffset=-3    xadvance=40    page=0 chnl=0 letter="错"
+char id=38450  x=48    y=48    width=43    height=43    xoffset=3     yoffset=-3    xadvance=40    page=0 chnl=0 letter="防"

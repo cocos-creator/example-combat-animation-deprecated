@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "020bf1b4-08ff-4cd8-bd20-2fef2233dfdb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fighter_atlas": {
+      "ver": "1.0.0",
+      "uuid": "143c3b60-f22c-4699-a6b1-0db6f021d2f1",
+      "rawTextureUuid": "020bf1b4-08ff-4cd8-bd20-2fef2233dfdb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2037,
+      "height": 740,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
