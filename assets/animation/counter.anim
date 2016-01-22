@@ -1,0 +1,127 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "counter",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.1666666666666665,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "Counter": {
+        "isCounting": [
+          {
+            "frame": 0,
+            "value": true
+          },
+          {
+            "frame": 2,
+            "value": true
+          },
+          {
+            "frame": 2.033333333333333,
+            "value": false
+          }
+        ],
+        "num": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 2,
+            "value": 99
+          }
+        ]
+      }
+    },
+    "paths": {
+      "num": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 1.0666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": [
+                0.21,
+                0.35,
+                0.58,
+                1.75
+              ]
+            },
+            {
+              "frame": 2.1,
+              "value": 2
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.0666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": [
+                0.27,
+                0.4,
+                0.55,
+                1.7
+              ]
+            },
+            {
+              "frame": 2.1,
+              "value": 2
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 1
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+              }
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 250.73333333333332,
+                "g": 123.80000000000001,
+                "b": 123.80000000000001,
+                "a": 255
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 247,
+                "g": 9,
+                "b": 9,
+                "a": 255
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

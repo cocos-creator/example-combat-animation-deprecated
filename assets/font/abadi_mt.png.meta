@@ -6,14 +6,14 @@
   "filterMode": "bilinear",
   "subMetas": {
     "abadi_mt": {
-      "ver": "1.0.0",
+      "ver": "1.0.2",
       "uuid": "f91c2e8f-bc67-4e47-b45c-c8bc1866b5e1",
       "rawTextureUuid": "d0e3e9b3-e3fe-4c3b-9dbb-87762dd368e8",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
-      "offsetX": 0,
-      "offsetY": 0,
+      "offsetX": -2.5,
+      "offsetY": 33.5,
       "trimX": 2,
       "trimY": 3,
       "width": 503,

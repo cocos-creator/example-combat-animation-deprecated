@@ -6,13 +6,13 @@
   "filterMode": "bilinear",
   "subMetas": {
     "fx_atlas": {
-      "ver": "1.0.0",
+      "ver": "1.0.2",
       "uuid": "c0342ca0-3ac8-47f6-8bdd-b201f57e39aa",
       "rawTextureUuid": "119dfcf6-ee73-423f-b8c5-af495da58c94",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
-      "offsetX": 0,
+      "offsetX": 0.5,
       "offsetY": 0,
       "trimX": 3,
       "trimY": 2,

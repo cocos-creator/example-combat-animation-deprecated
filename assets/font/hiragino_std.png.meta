@@ -6,14 +6,14 @@
   "filterMode": "bilinear",
   "subMetas": {
     "hiragino_std": {
-      "ver": "1.0.0",
+      "ver": "1.0.2",
       "uuid": "e73bc31d-21d9-4551-93c0-f6a1860c2ef2",
       "rawTextureUuid": "d72c5e38-3f7a-431e-a2ad-6cfbe767b698",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
-      "offsetX": 0,
-      "offsetY": 0,
+      "offsetX": -2,
+      "offsetY": 40,
       "trimX": 3,
       "trimY": 2,
       "width": 502,

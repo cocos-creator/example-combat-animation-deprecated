@@ -1,0 +1,8 @@
+{
+  "excludeScenes": [],
+  "packageName": "org.cocos2d.beat-warriors",
+  "platform": "mac",
+  "startScene": "406d00ab-1f03-49b6-98f5-e9dcda2232d4",
+  "startSceneUuid": "406d00ab-1f03-49b6-98f5-e9dcda2232d4",
+  "title": "beat-warriors"
+}
