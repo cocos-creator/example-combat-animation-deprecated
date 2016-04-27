@@ -333,19 +333,6 @@
           }
         }
       },
-      "blood_splash_1": {
-        "props": {
-          "position": [
-            {
-              "frame": 0,
-              "value": [
-                303,
-                -112
-              ]
-            }
-          ]
-        }
-      },
       "blood": {
         "props": {
           "position": [

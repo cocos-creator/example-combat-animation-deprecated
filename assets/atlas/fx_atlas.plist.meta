@@ -1,5 +1,5 @@
 {
-  "ver": "1.1.1",
+  "ver": "1.2.0",
   "uuid": "462b9fb5-8e3c-4fc0-a7ce-e9a4a7d429c7",
   "rawTextureUuid": "119dfcf6-ee73-423f-b8c5-af495da58c94",
   "size": {
@@ -7,6 +7,7 @@
     "height": 192
   },
   "type": "Texture Packer",
+  "rawTextureUrl": "db://assets/atlas/fx_atlas.png",
   "subMetas": {
     "block_01.png": {
       "ver": "1.0.2",

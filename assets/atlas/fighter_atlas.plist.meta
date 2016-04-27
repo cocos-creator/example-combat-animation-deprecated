@@ -1,5 +1,5 @@
 {
-  "ver": "1.1.1",
+  "ver": "1.2.0",
   "uuid": "b5e8c71e-84d0-4eac-a949-3b98b1a1b8ba",
   "rawTextureUuid": "020bf1b4-08ff-4cd8-bd20-2fef2233dfdb",
   "size": {
@@ -7,6 +7,7 @@
     "height": 744
   },
   "type": "Texture Packer",
+  "rawTextureUrl": "db://assets/atlas/fighter_atlas.png",
   "subMetas": {
     "004.png": {
       "ver": "1.0.2",
